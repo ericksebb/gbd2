@@ -46,18 +46,20 @@ VALUES
 
 ## 4. Utilizar la sentencia `COUNT (fullname)`
 
-![[countnames.png]]
+<img src="./ss/countnames.png" alt="COUNT (fullname)">
 
 ## 5. Utilizar la sentencia `COUNT (phone)`
 
-![[phone.png]]
+<img src="./ss/phone.png" alt="COUNT (phone)">
 
 ## 6. Utilizar la sentencia `COUNT (phone), COUNT (fullname)`
 
-![[phones_names.png]]
+<img src="./ss/phones_names.png" alt="COUNT (phone), COUNT (fullname)">
 
 ## 7. Utilizar la sentencia `COUNT (phone), COUNT (fullname), COUNT (*)`
 
-![[total.png]]
+<img src="./ss/total.png" alt="COUNT (phone), COUNT (fullname), COUNT (*)">
+
 ## 8. Utilizar la sentencia `COUNT (DISTINCT city)`
-![[city.png]]
+
+<img src="./ss/city.png" alt="COUNT (DISTINCT city)">
