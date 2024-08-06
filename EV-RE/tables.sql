@@ -23,7 +23,7 @@ CREATE TABLE exercise (
 
 --  Create a view
 
-CREATE VIEW  AS
+CREATE VIEW routines_for_the_homies AS
     SELECT 
     routine_id,
     r.description,
